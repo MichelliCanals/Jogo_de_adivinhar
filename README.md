@@ -15,7 +15,9 @@ O jogo continua até você acertar o número ou esgotar as 6 tentativas.
 Para rodar este jogo, você precisa ter o Python instalado em seu computador.
 
 Clone este repositório para a sua máquina:
-git clone [https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git](https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git)
+
+git clone https://github.com/MichelliCanals/Jogo_de_adivinhacao.git
+
 Navegue até a pasta do projeto:
 cd SEU_REPOSITORIO
 Execute o arquivo adivinhe.py usando o Python:
