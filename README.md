@@ -16,12 +16,12 @@ Para rodar este jogo, você precisa ter o Python instalado em seu computador.
 
 Clone este repositório para a sua máquina:
 
-git clone https://github.com/MichelliCanals/Jogo_de_adivinhacao.git
+git clone https://github.com/MichelliCanals/Jogo_de_adivinhar
 
 Navegue até a pasta do projeto:
-cd Jogo_de_adivinhacao
-Execute o arquivo adivinhe.py usando o Python:
-python adivinhe.py
+cd Jogo_de_adivinhar
+Execute o arquivo Jogo de adivinhar.py usando o Python:
+python Jogo de adivinhar.py
 
 💡 O que Aprendi 😁🕹
 Este projeto simples me ajudou a entender conceitos básicos de programação, como:
