@@ -19,7 +19,7 @@ Clone este repositório para a sua máquina:
 git clone https://github.com/MichelliCanals/Jogo_de_adivinhacao.git
 
 Navegue até a pasta do projeto:
-cd SEU_REPOSITORIO
+cd Jogo_de_adivinhacao
 Execute o arquivo adivinhe.py usando o Python:
 python adivinhe.py
 
